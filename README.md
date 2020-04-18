@@ -1,4 +1,4 @@
-# VESM2-lokaverkefni
+# VESM2-lokaverkefni (Dagbók í Wiki)
 ## Lokaverkefni (35%) 
 Snúrustýrður bíll með fjarstýringu.
 
