@@ -32,6 +32,7 @@ Notaðu TinkerCad og/eða Inkscape til að hanna og útfæra umgjörð fyrir fja
 ## Verkefnaskil
 Haltu utan um verkefnið á github, þar á að vera:
 - Dagbók, hvað gerðir þú og hvenær.
+  * Svar: [Dagbók]()
 - Kóðinn af báðum Arduino tölvunum.
 - Hlekkur á Tinkercad teikninguna af rásunum (Muna að gera teikninguna Public).
 - Hönnunarteikningar af bíl og fjarstýringu. Ein teikning með íhlutum (Arduino, skynjarar mótorar osfrv) og önnur án íhluta (til prentunar)
