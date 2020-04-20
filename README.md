@@ -32,10 +32,13 @@ Notaðu TinkerCad og/eða Inkscape til að hanna og útfæra umgjörð fyrir fja
 ## Verkefnaskil
 Haltu utan um verkefnið á github, þar á að vera:
 - Dagbók, hvað gerðir þú og hvenær.
-  * Svar: [Dagbók]()
+  * Svar: [Dagbók](https://github.com/Davygod/VESM2-lokaverkefni/wiki)
 - Kóðinn af báðum Arduino tölvunum.
+  * Svar: [Kóðinn](https://www.tinkercad.com/things/4rYNnPmun6f-copy-of-arduino-car-2wd/editel)
 - Hlekkur á Tinkercad teikninguna af rásunum (Muna að gera teikninguna Public).
+  * Svar: [Teikning](https://www.tinkercad.com/things/iLoc5efTeI6-copy-of-remote-control-cars/edit)
 - Hönnunarteikningar af bíl og fjarstýringu. Ein teikning með íhlutum (Arduino, skynjarar mótorar osfrv) og önnur án íhluta (til prentunar)
+  * Svar: [Teikning með íhlutum]() og [teikning án íhluta]()
 
 
 ## Námsmat
