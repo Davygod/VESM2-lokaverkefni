@@ -38,7 +38,7 @@ Haltu utan um verkefnið á github, þar á að vera:
 - Hlekkur á Tinkercad teikninguna af rásunum (Muna að gera teikninguna Public).
   * Svar: [Teikning](https://www.tinkercad.com/things/iLoc5efTeI6-copy-of-remote-control-cars/edit)
 - Hönnunarteikningar af bíl og fjarstýringu. Ein teikning með íhlutum (Arduino, skynjarar mótorar osfrv) og önnur án íhluta (til prentunar)
-  * Svar: [Teikning með íhlutum]() og [teikning án íhluta]()
+  * Svar: [Teikning með íhlutum]() og [teikning án íhluta](https://github.com/Davygod/VESM2-lokaverkefni/blob/master/efni/Lokaverkefni-VESM2.stl)
 
 
 ## Námsmat
