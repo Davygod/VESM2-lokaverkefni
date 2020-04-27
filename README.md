@@ -69,4 +69,4 @@ Haltu utan um verkefnið á github, þar á að vera:
    
 ## Heimildir
 1. https://www.tinkercad.com/things/4KfjPqZDUAF-arduino-car-2wd
-2. 
+2. https://www.instructables.com/id/motor-car-toy-with-arduino-uno-and-3dprinting/
