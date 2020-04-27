@@ -66,3 +66,6 @@ Haltu utan um verkefnið á github, þar á að vera:
    - 10% Hönnun er gölluð eða ábótavant að nokkru leyti.
    - 20% Hönnun er uppfyllt að mestu leyti.
    - 30% Hönnun er góð, lögun umgjarðar fellur vel að fjarstýringu og bíl, allir íhlutir og skynjarar falla vel að hönnun og eru tengdir, rými fyrir Íhluti og skynjara er ekki of rúmt og það eru ekki göp, tengingar og samsetning er framkvæmanleg útfrá hönnun.
+   
+## Heimildir
+1. 
