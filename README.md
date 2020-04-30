@@ -70,3 +70,4 @@ Haltu utan um verkefnið á github, þar á að vera:
 ## Heimildir
 1. https://www.tinkercad.com/things/4KfjPqZDUAF-arduino-car-2wd
 2. https://www.instructables.com/id/motor-car-toy-with-arduino-uno-and-3dprinting/
+3. https://www.tinkercad.com/things/3JTrjo0oj0s-copy-of-arduino-uno-casing-with-lcd-push-breadboard-space-and/edit
