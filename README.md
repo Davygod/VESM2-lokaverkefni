@@ -34,7 +34,7 @@ Haltu utan um verkefnið á github, þar á að vera:
 - Dagbók, hvað gerðir þú og hvenær.
   * Svar: [Dagbók](https://github.com/Davygod/VESM2-lokaverkefni/wiki)
 - Kóðinn af báðum Arduino tölvunum.
-  * Svar: [Kóðinn]()
+  * Svar: [Kóðinn](https://github.com/Davygod/VESM2-lokaverkefni/blob/master/Lokaverkefni2.ino)
 - Hlekkur á Tinkercad teikninguna af rásunum (Muna að gera teikninguna Public).
   * Svar: [Teikning](https://www.tinkercad.com/things/4rYNnPmun6f-copy-of-arduino-car-2wd/editel)
 - Hönnunarteikningar af bíl og fjarstýringu. Ein teikning með íhlutum (Arduino, skynjarar mótorar osfrv) og önnur án íhluta (til prentunar)
