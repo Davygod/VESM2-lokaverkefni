@@ -71,3 +71,4 @@ Haltu utan um verkefnið á github, þar á að vera:
 1. https://www.tinkercad.com/things/4KfjPqZDUAF-arduino-car-2wd
 2. https://www.instructables.com/id/motor-car-toy-with-arduino-uno-and-3dprinting/
 3. https://www.tinkercad.com/things/3JTrjo0oj0s-copy-of-arduino-uno-casing-with-lcd-push-breadboard-space-and/edit
+4. https://www.google.com/search?ei=yySwXs-sJa671fAPl4qP0AQ&q=using+servo+motor+for+steering+arduino+with+arduino+buttons&oq=using+servo+motor+for+steering+arduino+with+arduino+buttons&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoICCEQFhAdEB46BQghEKABOgcIIRAKEKABOgQIIRAVUPErWIdZYP5ZaABwAngAgAGlAYgBohKSAQQ2LjE1mAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwiPvs_rs5rpAhWuXRUIHRfFA0oQ4dUDCAw&uact=5#kpvalbx=_6ySwXrTeMe6h1fAP68aK8Ao28
